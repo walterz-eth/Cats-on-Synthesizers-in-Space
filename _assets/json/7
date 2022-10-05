@@ -1,0 +1,25 @@
+{
+  "name": "CATSS #8",
+  "description": "CatSynthSpace is a mind-blowing collection of cats playing synthesizers in space.",
+  "image": "https://ipfs.filebase.io/ipfs/bafybeihvzaq4syjo2kvxkefgfrdmnm5ssbhikevljt2fd6jmpiaoj4bcqu/7",
+  "edition": 1,
+  "artist": "walterz",
+  "attributes": [
+    {
+      "trait_type": "character",
+      "value": "cat"
+    },
+    {
+      "trait_type": "style",
+      "value": "Pop"
+    },
+    {
+      "trait_type": "synthesizer",
+      "value": "Digital"
+    },
+    {
+      "trait_type": "background",
+      "value": "Galaxy"
+    }
+  ]
+}
