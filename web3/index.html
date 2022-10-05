@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js" defer></script>
+	<script src="static/js/abi.js" defer></script>
+	<script src="static/js/app.js" defer></script>
+</head>
+
+<body>
+
+<button class="enableMetamask">
+Enable MetaMask
+</button>
+<h2><span class="statusText"></span></h2>
+<br/>
+
+<span class="">ABI</span>
+<input type="text" id="abi" placeholder="Contract ABI" disabled="true" />
+<br/>
+
+<span class="">Address</span>
+<input type="text" id="address" placeholder="Contract Address" disabled="true" />
+<br/>
+<br/>
+
+<span class="">Id:</span>
+<input type="text" id="tokenId" placeholder="tokenId" disabled="true" />
+<br/>
+<button class="doMint">
+	MINT!
+</button>
+<button class="doGetURI">
+	GET URI!
+</button>
+<br/>
+
+
+<span class="">Event data:</span>
+<span class="eventResult">
+  
+</span>
+<br />
+
+</body>
+
+</html>
